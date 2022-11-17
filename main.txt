@@ -1,3 +1,5 @@
 This is a file. End of story.
 
 Some more text.
+
+Third line of text.
